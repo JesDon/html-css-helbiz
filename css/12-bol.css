@@ -10,7 +10,7 @@
   margin: auto;
   text-align: center;
 }
-.row::after {
+.container::after {
   content: "";
   display: table;
   clear: both;

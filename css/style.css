@@ -67,4 +67,19 @@ a{
   color: #fff;
 }
 
+.hero-img{
+  display: inline-block;
+}
 /* /header */
+
+/* main */
+.col-lg-6{
+  background-color: red;
+  height: 800px;
+  border: 1px solid black;
+}
+
+.phone{
+  background-image: url(../img/image.png);
+  height: 500px;
+}
