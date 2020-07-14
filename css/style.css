@@ -1,0 +1,70 @@
+/* valori generici */
+body{
+  font-family: 'Open Sans', sans-serif;
+  }
+
+.list-inline{
+  list-style: none;
+}
+
+.list-inline li{
+  display: inline-block;
+}
+
+a{
+  text-decoration: none;
+}
+/* /valori generici */
+
+/* header */
+.header-top{
+  background-color: #fff;
+  height: 70px;
+  line-height: 70px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  font-size: 0.7rem;
+}
+
+.logo{
+  height: 12px;
+  cursor: pointer;
+}
+
+.main-menu{
+  text-align: right;
+}
+
+.main-menu li{
+  padding-right: 30px;
+}
+
+.main-menu li a{
+  color: #000;
+}
+
+.header-login{
+  text-align: right;
+}
+
+.btn-login{
+  padding: 10px 20px;
+  background-color: #000;
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: bold;
+  margin-left: 15px;
+}
+
+.hero{
+  height: 550px;
+  background-image: url(../img/hero-bg.jpg);
+}
+
+.hero-text{
+  color: #fff;
+}
+
+/* /header */
