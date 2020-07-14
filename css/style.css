@@ -66,11 +66,7 @@ a{
 
 .hero-text{
   color: #fff;
-  margin-top: 250px;
-}
-
-.hero-img{
-  margin-top: 350px;
+  margin-top: 220px;
 }
 
 .hero-text h1{
@@ -79,7 +75,9 @@ a{
 }
 
 .hero-img{
+  margin-top: 20px;
   display: inline-block;
+  width: 150px;
 }
 /* /header */
 
@@ -98,4 +96,5 @@ a{
 .phone{
   background-image: url(../img/image.png);
   height: 500px;
+  background-size: cover;
 }
