@@ -124,3 +124,14 @@ a{
   height: 500px;
   background-size: cover;
 }
+
+
+
+@media screen and (min-width: 769px) and (max-width: 992px) {
+  .hero-text{
+    text-align: center;
+  }
+  .hero-img{
+    text-align: center;
+  }
+}
